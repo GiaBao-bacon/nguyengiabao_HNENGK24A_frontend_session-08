@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  h2.title {
+    font-size: 2rem;
+    margin: 20px 0;
+  }
+  
+  .feature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon {
+    font-size: 3rem;
+    margin-right: 20px;
+  }
+  
+  .feature-text {
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .heading {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .secondary .heading {
+    color: #007bff;
+  }
+  
+  .secondary .description {
+    color: #444;
+  }
+  
